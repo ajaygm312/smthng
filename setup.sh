@@ -1,5 +1,5 @@
 #setup.sh VNC_USER_PASSWORD VNC_PASSWORD NGROK_AUTH_TOKEN
-
+uname -a
 #disable spotlight indexing
 sudo mdutil -i off -a
 
